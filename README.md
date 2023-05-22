@@ -41,3 +41,7 @@ Open the javadoc in your browser by opening the [file](ChemistryDeathRace-auth-d
 ## Diagrams
 
 Diagrams are available in the [diagrams](Diagrams) folder.
+
+## User guides
+
+User guides are available in the [user guides](User_Guides) folder.
