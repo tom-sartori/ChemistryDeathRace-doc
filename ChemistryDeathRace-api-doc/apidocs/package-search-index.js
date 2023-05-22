@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"chemistry.death.race.collection.game"},{"l":"chemistry.death.race.collection.question"},{"l":"chemistry.death.race.constant"},{"l":"chemistry.death.race.exception"},{"l":"chemistry.death.race.repository"},{"l":"chemistry.death.race.resource"},{"l":"chemistry.death.race.service"}];updateSearchResults();
