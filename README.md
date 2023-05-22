@@ -30,4 +30,14 @@ This project provides documentations for subprojects of ChemistryDeathRace. It u
   <img alt="github link" src="https://img.shields.io/badge/Chemistry Death Race-DOC-green?style=for-the-badge&logo=github">
 </a>
 
-## Documentation of [ChemistryDeathRace-api-doc](ChemistryDeathRace-api-doc/apidocs/index.html)
+## Documentation of ChemistryDeathRace-api-doc
+
+Open the javadoc in your browser by opening the [file](ChemistryDeathRace-api-doc/apidocs/index.html) `ChemistryDeathRace-api-doc/apidocs/index.html`.
+
+## Documentation of ChemistryDeathRace-auth-doc
+
+Open the javadoc in your browser by opening the [file](ChemistryDeathRace-auth-doc/apidocs/index.html) `ChemistryDeathRace-auth-doc/apidocs/index.html`.
+
+## Diagrams
+
+Diagrams are available in the [diagrams](Diagrams) folder.
